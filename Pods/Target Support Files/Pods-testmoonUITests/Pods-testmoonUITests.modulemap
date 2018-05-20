@@ -1,0 +1,6 @@
+framework module Pods_testmoonUITests {
+  umbrella header "Pods-testmoonUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
